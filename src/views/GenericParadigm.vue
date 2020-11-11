@@ -8,6 +8,8 @@
 export default {
     steup() {
         // test1
+
+        // test2
     }
 }
 </script>
