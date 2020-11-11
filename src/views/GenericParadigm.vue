@@ -4,14 +4,10 @@
   </div>
 </template>
 
-<script lang='ts'>
+<script>
 export default {
     steup() {
-        function fx <T> (val: T): T {
-            return val
-        }
-        let re = fx('ss')
-        console.log(re)
+
     }
 }
 </script>
