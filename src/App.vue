@@ -2,7 +2,8 @@
   <div id="nav">
     <router-link to="/">Home</router-link> |
     <router-link to="/about">About</router-link> |
-    <router-link to="/baseType">基本类型</router-link>
+    <router-link to="/baseType">基本类型</router-link> |
+    <router-link to="/genericParadigm">泛型</router-link>
   </div>
   <router-view />
 </template>

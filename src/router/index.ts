@@ -20,6 +20,11 @@ const routes: Array<RouteRecordRaw> = [
     path: '/baseType',
     name: 'Base-Type',
     component: () => import('@/views/BaseType.vue')
+  },
+  {
+    path: '/genericParadigm',
+    name: 'Generic-Paradigm',
+    component: () => import('@/views/GenericParadigm.vue')
   }
 ];
 
